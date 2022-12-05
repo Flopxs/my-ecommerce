@@ -1,0 +1,17 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+
+}
+
+
+.nav-link {
+    color: #000;
+
+}
+
+
+.nav-link:hover {
+    color: #fff;
+}
